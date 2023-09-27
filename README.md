@@ -41,7 +41,7 @@ The statistical analysis of datasets is described in this [Jupyter Notebook](htt
 
 ## Findings <a name="findings"></a>
 
-It is found that for the corruption index (CPI) as well as the world press freedom index (WPFI), the null hypothesis is rejected for all years, demonstrating a significant difference between the 'upper' and the 'lower' group of countries. On the other hand, the gross domestic product per capita (GDP) does not have the same behaviour.
+It is found that for the corruption index (CPI) as well as the world press freedom index (WPFI), the null hypothesis is rejected for all years, demonstrating a significant difference between the 'upper' and the 'lower' group of countries. On the other hand, the gross domestic product per capita (GDP) does not have the same behaviour. A particular example for the year 2019 is shown on the graph below.
 
 ![bernoulli_distr](https://github.com/isamathr/coalition-governments/assets/134223309/28c2abe4-3cd0-459c-a6fc-f2eb44119086)
 
