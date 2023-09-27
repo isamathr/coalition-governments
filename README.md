@@ -27,7 +27,8 @@ In conclusion, this project sheds light on the relationship between government t
 
 ## Data Collection <a name="collection"></a>
 
-The process of collecting data is described in this Jupyter Notebook
+The process of collecting the necessary data is described in this [Jupyter Notebook](https://github.com/isamathr/coalition-governments/blob/main/process/Collecting_datasets.ipynb).
+Some further cleaning is required to get the final version of the files
 
 ## Data Analysis <a name="analysis"></a>
 
@@ -41,5 +42,7 @@ The statistical analysis of datasets is described in this [Jupyter Notebook](htt
 ## Findings <a name="findings"></a>
 
 It is found that for the corruption index (CPI) as well as the world press freedom index (WPFI), the null hypothesis is rejected for all years, demonstrating a significant difference between the 'upper' and the 'lower' group of countries. On the other hand, the gross domestic product per capita (GDP) does not have the same behaviour.
+
+![bernoulli_distr](https://github.com/isamathr/coalition-governments/assets/134223309/28c2abe4-3cd0-459c-a6fc-f2eb44119086)
 
 Find more detailed explanation in [Jupyter Notebook](https://github.com/isamathr/coalition-governments/blob/main/process/analyzing_datasets.ipynb).
